@@ -3,7 +3,7 @@
 ## Краткое описание
 - Дата начала: 10.01.2020 г. 
 - Дата окончания: 10.01.2020 г. 
-было проведено *Smoke Test* функционала *Credit Card Number Validator*.
+было проведен *Smoke Test* функционала *Credit Card Number Validator*.
 
 **На тестирование затрачено: 2 час.**
 
@@ -16,7 +16,7 @@
 - https://github.com/rabmail/JavaDZ1.2/issues/3#issue-782855032
 - https://github.com/rabmail/JavaDZ1.2/issues/4#issue-782855569
 
-## В качестве тестовых данных использовались тестовые данные с сайта "freeformatter.com"
+## В качестве тестовых данных использовались данные с сайта "freeformatter.com"
 
 ### VISA:
 - 4686540469574618
